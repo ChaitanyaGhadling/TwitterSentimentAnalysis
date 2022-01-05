@@ -48,10 +48,10 @@ class TwitterStreamListener(StreamListener):
                 return string
 
 if __name__ == '__main__':
-        consumer_key = 'orh7UbxDKBMs5Po0C3aJOBlBo'
-        consumer_secret = 'Lo6h8BAbt2rI1p4GhwjYCiVBqWSFGADWQr0BNcaw5Bs0xFD7Nw'
-        access_token = '1458837149915226133-qC9PO7PBZgfelJTWuEpUFLookNHhzm'
-        access_secret = 'oPLklgHa8CZk8tHRjUT7WlFEMfopK9LD2mMSTsrxvdQEY'
+        consumer_key = 'Enter your keys'
+        consumer_secret = ''
+        access_token = ''
+        access_secret = ''
 
         # Local connection
         host = "127.0.0.1"          
